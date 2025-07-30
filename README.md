@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 6 - CYOAPI Part 2: RecyclerView Edition
 
-Submitted by: **Khristian McPeters**
+Submitted by: **Your Name Here**
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Summary
 
-**Pokemon API App** is an android app that **Displays a random character from the pokemon API**
+**Pokemon API APP** is an android app that **displays a scrollable list from Pokemon API**
 
-If I had to describe this project in three (3) emojis, they would be: **🎇🎇🎇**
+If I had to describe this project in three (3) emojis, they would be: **👍👍👍**
 
 ## Application Features
 
@@ -19,30 +19,26 @@ If I had to describe this project in three (3) emojis, they would be: **🎇🎇
 The following REQUIRED features are completed:
 
 - [ ] Make an API call to an API of your choice using AsyncHTTPClient
-- [ ] Display at least three (3) pieces of data for each API entry retrieved
-- [ ] A working Button requests a new API entry and updates the data displayed
+- [ ] Implement a RecyclerView to display a list of entries from the API
+- [ ] Display at least three (3) pieces of data for each RecyclerView item
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Add a UI element for the user to interact with API further
+- [ ] Show a `Toast` or `Snackbar` when an item is clicked
+- [ ] Add item dividers with `DividerItemDecoration`
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is **PokeAPI**.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://www.loom.com/share/fe4efdd9d3164bb0b2ef4915903b3947?sid=d1d8c147-f243-45b1-95db-cd91cdc2c8f1)' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **Loom**
+GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
